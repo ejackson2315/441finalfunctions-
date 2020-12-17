@@ -1,0 +1,13 @@
+Package: Jackson441functions
+Type: Package
+Title: Cleaning Data and Summary Statistics
+Version: 0.1.0
+Author: Ellie Jackson
+Maintainer: Ellie <ellie.jackson@g.ucla.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+RoxygenNote: 7.1.1
